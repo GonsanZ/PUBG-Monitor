@@ -1,7 +1,5 @@
 PUBG Monitor Bot para Discord
 
-PUBG Monitor Bot es un bot avanzado para Discord que permite a los jugadores de PlayerUnknown’s Battlegrounds (PUBG) consultar sus estadísticas, historial de partidas, rankings y mucho más, directamente desde Discord con comandos fáciles de usar.
-
 ![Imagen 0](https://github.com/GonsanZ/PUBG-Monitor/blob/main/intro.png)
 
 Características:
