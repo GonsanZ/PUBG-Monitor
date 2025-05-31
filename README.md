@@ -16,3 +16,9 @@ Características:
   - Interfaz amigable: Comandos con paginación, botones interactivos y respuestas rápidas para una experiencia cómoda y eficiente.
   - Multi-región: Soporta las principales regiones de PUBG (como Steam, Brasil, NA, etc.) para ofrecer datos precisos y actualizados.
   - Seguridad y privacidad: El registro y las consultas son privadas y seguras, respetando tus datos personales.
+
+![Imagen 1](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help1.png)
+![Imagen 2](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help2.png)
+![Imagen 3](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help3.png)
+
+Invitame: [Discord](https://discord.com/oauth2/authorize?client_id=1375648720573567137&permissions=8&scope=bot%20applications.commands)
