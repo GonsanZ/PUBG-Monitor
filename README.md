@@ -1,5 +1,7 @@
 PUBG Monitor Bot para Discord
 
+- [Invitame](https://discord.com/oauth2/authorize?client_id=1375648720573567137&permissions=8&scope=bot%20applications.commands)
+
 ![Imagen 0](https://github.com/GonsanZ/PUBG-Monitor/blob/main/intro.png)
 
 Características:
@@ -22,5 +24,3 @@ Características:
 ![Imagen 1](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help1.png)
 ![Imagen 2](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help2.png)
 ![Imagen 3](https://github.com/GonsanZ/PUBG-Monitor/blob/main/help3.png)
-
-Invitame: [Discord](https://discord.com/oauth2/authorize?client_id=1375648720573567137&permissions=8&scope=bot%20applications.commands)
