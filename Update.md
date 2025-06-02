@@ -125,3 +125,27 @@ Mejor presentación:
  ✅ Nuevo comando /updates
 
  - Te permite ver en tiempo real las actualizaciones y cambios del bot.
+
+ ✅ Nuevo Sistema AntiScam:
+
+ Detección automática de mensajes sospechosos:
+ - El bot escucha el evento y revisa cada mensaje enviado en canales de servidores donde está presente.
+
+ Patrones de scam:
+ - Se usan expresiones regulares para identificar frases y enlaces sospechosos comunes en scams, como:
+ - Enlaces falsos o maliciosos de Discord Nitro (discord.gift, discordgift.com, free-nitro, etc.)
+ - URLs acortadas sospechosas (bit.ly, tinyurl.com)
+ - Palabras relacionadas con regalos o bonos falsos en PUBG u otros juegos (free, crate, gift, etc.)
+ - Enlaces a dominios maliciosos o sospechosos (ejemplo: steamcommunity.ru)
+
+ Acción ante detección:
+
+ - El mensaje sospechoso es eliminado automáticamente para evitar que otros usuarios puedan verlo o caer en la trampa.
+ - Se envía un mensaje embed de advertencia en el canal, dirigido al usuario que intentó enviar el mensaje, explicando que su mensaje fue eliminado por contener contenido sospechoso.
+ -  El embed incluye el contenido del mensaje eliminado para transparencia y alerta.
+ - Se registra en consola para supervisión del equipo o desarrolladores.
+
+  Protección sin falsos positivos:
+   
+ - El sistema ignora mensajes de bots para no interferir con automatizaciones legítimas.
+ -  Solo funciona en canales de servidores (no en mensajes privados).
