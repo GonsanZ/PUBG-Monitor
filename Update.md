@@ -121,3 +121,7 @@ Mejor presentación:
 
 - Control de interacciones:
 - Solo el usuario que ejecutó el comando puede interactuar con los botones y hay un tiempo límite para la interacción.
+
+ ✅ Nuevo comando /updates
+
+ - Te permite ver en tiempo real las actualizaciones y cambios del bot.
