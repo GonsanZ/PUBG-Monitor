@@ -1,33 +1,34 @@
 ✅ Cambios agregados al comando /stats:
+
 1. Separación de estadísticas en dos embeds:
 
     Separamos FPP y TPP en dos páginas (embeds) distintas:
 
-   🟦 FPP (first-person): con estadísticas de solo-fpp, duo-fpp y squad-fpp.
+   - 🟦 FPP (first-person): con estadísticas de solo-fpp, duo-fpp y squad-fpp.
 
-   🟩 TPP (third-person): con estadísticas de solo, duo y squad.
+   - 🟩 TPP (third-person): con estadísticas de solo, duo y squad.
 
 2. Paginación con botones:
 
     Se añadieron botones interactivos para navegar entre las estadísticas:
 
-   ◀️ FPP – Muestra el embed de estadísticas FPP.
+   - ◀️ FPP – Muestra el embed de estadísticas FPP.
 
-   ▶️ TPP – Muestra el embed de estadísticas TPP.
+   - ▶️ TPP – Muestra el embed de estadísticas TPP.
 
 3. Botón ⏹️ Cerrar:
 
-    Se añadió un botón ⏹️ Cerrar que borra el mensaje de estadísticas.
+    - Se añadió un botón ⏹️ Cerrar que borra el mensaje de estadísticas.
 
-    Solo el usuario que ejecutó el comando puede usar este botón.
+    - Solo el usuario que ejecutó el comando puede usar este botón.
 
 4. Restricción de botones por usuario:
 
-    Si otra persona intenta usar los botones, recibe un mensaje: ❌ Solo tú puedes usar estos botones.
+    - Si otra persona intenta usar los botones, recibe un mensaje: ❌ Solo tú puedes usar estos botones.
 
 5. Auto deshabilitado después de 60 segundos:
 
-    Los botones se desactivan automáticamente después de 1 minuto si no se usan, para evitar que queden activos permanentemente.
+    - Los botones se desactivan automáticamente después de 1 minuto si no se usan, para evitar que queden activos permanentemente.
 
 6. Mejoras visuales con emojis personalizados:
 
@@ -38,7 +39,7 @@
    🏆 Wins
    ⚔️ K/D
 
-En /compare
+✅ Cambios agregados al comando /compare
 
 Soporte para TPP y FPP:
 
@@ -62,7 +63,7 @@ Campos estadísticos más completos:
 
 - Se comparan kills, wins, K/D, partidas jugadas y top 10 para cada modo.
 
-En /ranking
+✅ Cambios agregados al comando /ranking
 
 Estadísticas TPP y FPP:
 Se obtienen y muestran estadísticas para ambos modos (TPP y FPP).
