@@ -37,3 +37,40 @@
    🎯 Kills
    🏆 Wins
    ⚔️ K/D
+
+En /compare
+
+Soporte para TPP y FPP:
+
+- Ahora se muestran estadísticas separadas para ambos modos (TPP y FPP).
+
+- Se generan dos embeds distintos, uno para cada modo.
+
+Paginación con botones:
+
+- Se agregaron botones para navegar entre el embed de TPP y el de FPP.
+
+- Botón de “⏹️ Cerrar” para eliminar el mensaje.
+
+ Colores personalizados:
+
+- El embed de TPP tiene color verde.
+
+- El embed de FPP tiene color azul.
+
+Campos estadísticos más completos:
+
+- Se comparan kills, wins, K/D, partidas jugadas y top 10 para cada modo.
+
+En /ranking
+
+Estadísticas TPP y FPP:
+Se obtienen y muestran estadísticas para ambos modos (TPP y FPP).
+Color dinámico según promedio de kills:
+
+El color del embed cambia según el promedio de kills de los jugadores en el ranking (ejemplo: rojo si kills bajas, dorado si altas).
+
+Mejor presentación:
+
+- Se muestran las estadísticas ordenadas (top 10).
+- Se incluyen kills totales y kills por modo.
