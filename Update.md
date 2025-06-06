@@ -149,3 +149,12 @@ Mejor presentación:
    
  - El sistema ignora mensajes de bots para no interferir con automatizaciones legítimas.
  -  Solo funciona en canales de servidores (no en mensajes privados).
+
+✅ Correcciones realizadas para PUBG Monitor
+
+ - Corrección del manejo de los embeds para mostrar estadísticas FPP y TPP.
+ - Se mejoró la generación de embeds para que solo se muestren si tienen datos.
+ - Se corrigieron posibles errores para evitar que la interacción quede sin respuesta.
+ - Desactivación automática de botones tras finalizar el tiempo de espera.
+ - Manejo de errores en la edición final de mensajes para evitar bloqueos o fallos.
+ - Validación para notificar cuando uno o ambos jugadores no son encontrados.
