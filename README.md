@@ -1,6 +1,5 @@
 PUBG Monitor Bot para Discord
 
-- [Invitame](https://discord.com/oauth2/authorize?client_id=1375648720573567137&permissions=8&scope=bot%20applications.commands)
 - [Website](https://pubgmonitor.net/)
 
 
