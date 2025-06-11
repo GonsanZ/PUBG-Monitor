@@ -162,7 +162,7 @@ Mejor presentación:
    ✅ Nuevos comandos:
 
  /registerclan 
- - Registrar un clan PUBG.
+ - Registra un clan de PUBG.
 
  /topclans 
  - Muestra los clanes más destacados registrados.
