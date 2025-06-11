@@ -158,3 +158,14 @@ Mejor presentación:
  - Desactivación automática de botones tras finalizar el tiempo de espera.
  - Manejo de errores en la edición final de mensajes para evitar bloqueos o fallos.
  - Validación para notificar cuando uno o ambos jugadores no son encontrados.
+
+   ✅ Nuevos comandos:
+
+ /registerclan
+- Registrar un clan PUBG.
+ /topclans
+- Ver información de un clan.
+ /patch
+- Muestra los detalles del último parche de PUBG.
+ /records
+- Ver récords de jugadores.
