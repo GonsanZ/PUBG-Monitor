@@ -161,7 +161,14 @@ Mejor presentación:
 
    ✅ Nuevos comandos:
 
- /registerclan - Registrar un clan PUBG.
- /topclans - Ver información de un clan.
- /patch - Muestra los detalles del último parche de PUBG.
- /records - Ver récords de jugadores.
+ /registerclan 
+ - Registrar un clan PUBG.
+
+ /topclans 
+ - Ver información de un clan.
+
+ /patch
+- Muestra los detalles del último parche de PUBG.
+
+ /records
+- Ver récords de jugadores.
