@@ -165,7 +165,7 @@ Mejor presentación:
  - Registrar un clan PUBG.
 
  /topclans 
- - Ver información de un clan.
+ - Muestra los clanes más destacados registrados.
 
  /patch
 - Muestra los detalles del último parche de PUBG.
