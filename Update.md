@@ -171,4 +171,4 @@ Mejor presentación:
 - Muestra los detalles del último parche de PUBG.
 
  /records
-- Ver récords de jugadores.
+- Muestra tus récords personales en PUBG.
