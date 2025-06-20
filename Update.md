@@ -1,4 +1,4 @@
-Novedades y Mejoras
+Novedades y Mejoras 20.6.2025
 
 - Botones interactivos: Ahora puedes cambiar entre diferentes modos (FPP/TPP) fácilmente con botones en los comandos de estadísticas, ranking, partidas, mapas y eventos y mucho más..
 - Botón para cerrar: Cada mensaje con botones incluye un botón para cerrar y borrar el mensaje, manteniendo el canal ordenado.
