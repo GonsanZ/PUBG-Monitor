@@ -5,3 +5,7 @@ Novedades y Mejoras 20.6.2025
 - Diseño más atractivo: Los mensajes se ven más profesionales, con colores, emojis y una estructura clara que facilita la lectura.
 - Mejor manejo de la API PUBG: El bot ahora gestiona mejor los límites de peticiones para evitar bloqueos y asegurar que la información siempre esté disponible.
 - Mensajes claros de error: Si algo sale mal o no se encuentra información, el bot te avisa con mensajes sencillos y fáciles de entender.
+
+Novedades y Mejoras 22.6.2025
+
+- Soporte multilenguaje: Español 🇪🇸, Inglés 🇬🇧 y Portugués 🇧🇷 mediante /setlanguage.
