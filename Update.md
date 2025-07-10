@@ -10,14 +10,14 @@ Novedades y Mejoras 22.6.2025
 
 - Soporte multilenguaje: Español 🇪🇸, Inglés 🇺🇸​ y Portugués 🇧🇷 mediante /setlanguage.
 
-- Novedades y Mejoras 10.7.2025
+ Novedades y Mejoras 10.7.2025
 
-## 🕒 Rate Limit & Cooldown System — PUBG Monitor Bot
-## 🎯 Objetivo
+- 🕒 Rate Limit & Cooldown System — PUBG Monitor Bot
+## 🎯 Objetivo:
 
 - Evitar el uso excesivo o abusivo de los comandos del bot, proteger el límite de solicitudes hacia la API oficial de PUBG, y mejorar la experiencia del usuario con mensajes claros de espera entre comandos.
 
-  🔒 Evita abuso o spam.
-  🧠 Reduce uso innecesario de la API de PUBG.
-  🚀 Mejora el rendimiento y estabilidad del bot.
-  💬 Mejora la experiencia del usuario con mensajes amigables.
+ - 🔒 Evita abuso o spam.
+ - 🧠 Reduce uso innecesario de la API de PUBG.
+ - 🚀 Mejora el rendimiento y estabilidad del bot.
+ - 💬 Mejora la experiencia del usuario con mensajes amigables.
