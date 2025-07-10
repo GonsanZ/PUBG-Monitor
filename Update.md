@@ -12,11 +12,11 @@ Novedades y Mejoras 22.6.2025
 
  Novedades y Mejoras 10.7.2025
 
-- 🕒 Rate Limit & Cooldown System — PUBG Monitor Bot
 ## 🎯 Objetivo:
 
 - Evitar el uso excesivo o abusivo de los comandos del bot, proteger el límite de solicitudes hacia la API oficial de PUBG, y mejorar la experiencia del usuario con mensajes claros de espera entre comandos.
-
+- 
+ - 🕒 Rate Limit & Cooldown System — PUBG Monitor Bot.
  - 🔒 Evita abuso o spam.
  - 🧠 Reduce uso innecesario de la API de PUBG.
  - 🚀 Mejora el rendimiento y estabilidad del bot.
