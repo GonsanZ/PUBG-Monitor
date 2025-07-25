@@ -25,7 +25,7 @@
 
 ## 🆕 Últimas mejoras y actualizaciones 25.7.2025
 
-✅ Soporte completo para plataforma **PC**, **Xbox**, y **Mobile**.   
-✅ Registro avanzado con validación automática usando nickname.  
-✅ Detección de errores amigable si el jugador no existe.  
-✅ Visualización con **Embeds personalizados** y botones de interacción.
+- ✅ Soporte completo para plataforma **PC**, **Xbox**, y **Mobile**.   
+- ✅ Registro avanzado con validación automática usando nickname.  
+- ✅ Detección de errores amigable si el jugador no existe.  
+- ✅ Visualización con **Embeds personalizados** y botones de interacción.
