@@ -8,7 +8,7 @@
 
 ## Novedades y Mejoras 22.6.2025
 
-- Soporte multilenguaje: Español 🇪🇸, Inglés 🇺🇸​ y Portugués 🇧🇷 85% mediante /setlanguage.
+- Soporte multilenguaje: Español 🇪🇸, Inglés 🇺🇸​ y Portugués 🇧🇷 94% mediante /setlanguage.
 
 ## Novedades y Mejoras 10.7.2025
 
