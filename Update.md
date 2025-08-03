@@ -29,3 +29,41 @@
 - ✅ Registro avanzado con validación automática usando nickname.  
 - ✅ Detección de errores amigable si el jugador no existe.  
 - ✅ Visualización con **Embeds personalizados** y botones de interacción.
+
+## Novedades y Mejoras 03.8.2025
+
+📢 Actualización del Bot PUBG Monitor - Comandos /top y /ranking
+
+## 🏆 Comando /top - Top 5 por Victorias Squad FPP y TPP
+
+- Mejoras en datos y precisión:
+- Ahora se obtienen las estadísticas directamente usando el nickname, región y plataforma registrados con /register para mayor precisión.
+
+## Visual más claro y atractivo:
+
+- Listado ordenado con posición, nickname, número de victorias y plataforma.
+- Inclusión de emojis por plataforma para una mejor identificación visual (Steam 🖥️, Xbox 🎮, PlayStation 🎮, Kakao 🌐, Stadia ☁️, Epic 🛒).
+
+## Interacción mejorada:
+
+- Botones para cambiar fácilmente entre el ranking de Squad FPP y Squad TPP sin necesidad de volver a ejecutar el comando.
+- Botón para cerrar el mensaje y evitar saturar el chat.
+- Protección contra spam: cooldown de 10 segundos por usuario para un uso responsable.
+
+## 📊 Comando /ranking - Top 10 por Kills y Victorias (Solo, Duo, Squad)
+
+- Ranking más completo y detallado:
+- Se combinan las estadísticas de kills y victorias sumando los modos Solo, Duo y Squad para ofrecer una visión global del rendimiento.
+
+## Visualización organizada:
+
+- Listado con posición, nickname, kills totales, victorias totales y plataforma.
+- Emojis para plataforma igual que en /top para facilitar la lectura rápida.
+
+## Alternar entre modos FPP y TPP:
+- Botones para cambiar entre los rankings sin perder el contexto.
+
+## Optimización y rendimiento:
+- Implementación de caché por 60 segundos para reducir llamadas a la API y acelerar las respuestas.
+- Cooldown de 10 segundos por usuario para evitar abusos.
+- Descripción clara en el embed que explica que el ranking considera estadísticas combinadas de todos los modos.
