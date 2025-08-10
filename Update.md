@@ -80,7 +80,7 @@ Descubrí todo lo nuevo para que saques el máximo provecho y disfrutes de la me
    - 📜 Revisar el historial de tus últimas 5 partidas usando /history, con filtros prácticos para encontrar lo que buscas.
    - 🌐 Consultar rankings y top players con /top y /ranking, eligiendo ver resultados por servidor o global (usuarios premium).
 
-#Novedades Técnicas
+Novedades Técnicas
 
    - 🌎 Mensajes multilenguaje, que se adaptan automáticamente al idioma de tu servidor.
    - 🎛️ Botones interactivos, para navegar y cambiar opciones sin necesidad de escribir comandos adicionales.
@@ -88,7 +88,7 @@ Descubrí todo lo nuevo para que saques el máximo provecho y disfrutes de la me
    - 🔄 Indicadores visuales que te muestran cuando el bot está consultando datos de la API en tiempo real.
    - ⚠️ Manejo amigable de errores, para que siempre tengas feedback claro y datos actualizados al instante.
 
-#En resumen:
+En resumen:
 
 Ahora consultar tus partidas y estadísticas de PUBG es más rápido, fácil e interactivo que nunca. Todo en un solo bot, con mensajes claros, soporte multilenguaje y controles intuitivos.
 
