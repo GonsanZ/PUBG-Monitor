@@ -67,3 +67,29 @@
 - Implementación de caché por 60 segundos para reducir llamadas a la API y acelerar las respuestas.
 - Cooldown de 10 segundos por usuario para evitar abusos.
 - Descripción clara en el embed que explica que el ranking considera estadísticas combinadas de todos los modos.
+
+
+## 🚀 ¡Mejoras y Novedades Recientes del Bot PUBG Monitor! 10.8.2025
+
+Descubrí todo lo nuevo para que saques el máximo provecho y disfrutes de la mejor experiencia al consultar tus estadísticas y partidas.
+¿Qué podés hacer ahora?
+
+   - 📊 Ver tus estadísticas generales con el comando /stats, eligiendo modos y submodos fácil y rápido.
+   - 🏆 Consultar tus récords personales con /records y conocer tus mejores marcas.
+   - 🎮 Mostrar tu última partida con /match, con todos los detalles importantes al alcance de un clic.
+   - 📜 Revisar el historial de tus últimas 5 partidas usando /history, con filtros prácticos para encontrar lo que buscas.
+   - 🌐 Consultar rankings y top players con /top y /ranking, eligiendo ver resultados por servidor o global (usuarios premium).
+
+#Novedades Técnicas
+
+   - 🌎 Mensajes multilenguaje, que se adaptan automáticamente al idioma de tu servidor.
+   - 🎛️ Botones interactivos, para navegar y cambiar opciones sin necesidad de escribir comandos adicionales.
+   - ⏳ Mensajes temporales, con opción para cerrar manualmente cuando quieras.
+   - 🔄 Indicadores visuales que te muestran cuando el bot está consultando datos de la API en tiempo real.
+   - ⚠️ Manejo amigable de errores, para que siempre tengas feedback claro y datos actualizados al instante.
+
+#En resumen:
+
+Ahora consultar tus partidas y estadísticas de PUBG es más rápido, fácil e interactivo que nunca. Todo en un solo bot, con mensajes claros, soporte multilenguaje y controles intuitivos.
+
+¡Probalo y descubrí cómo llevar tu juego al siguiente nivel! 🎯
