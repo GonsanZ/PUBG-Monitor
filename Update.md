@@ -78,7 +78,7 @@ Descubrí todo lo nuevo para que saques el máximo provecho y disfrutes de la me
    - 🏆 Consultar tus récords personales con /records y conocer tus mejores marcas.
    - 🎮 Mostrar tu última partida con /match, con todos los detalles importantes al alcance de un clic.
    - 📜 Revisar el historial de tus últimas 5 partidas usando /history, con filtros prácticos para encontrar lo que buscas.
-   - 🌐 Consultar rankings y top players con /top y /ranking, eligiendo ver resultados por servidor o global.
+   - 🌐 Consultar rankings y top players con /top y /ranking, eligiendo ver resultados por Servidor o Global.
 
 Novedades Técnicas
 
