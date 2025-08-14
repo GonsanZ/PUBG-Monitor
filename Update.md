@@ -94,7 +94,7 @@ Ahora consultar tus partidas y estadísticas de PUBG es más rápido, fácil e i
 
 ¡Probalo y descubrí cómo llevar tu juego al siguiente nivel! 🎯
 
-##Sistema PUBGCoins 💰 14.8.2025
+## Sistema PUBGCoins 💰 14.8.2025
 
 ¿Qué es el sistema PUBGCoins y por qué está en el bot?
 
