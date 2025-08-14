@@ -99,7 +99,7 @@ Ahora consultar tus partidas y estadísticas de PUBG es más rápido, fácil e i
 ¿Qué es el sistema PUBGCoins y por qué está en el bot?
 
 Para mejorar la experiencia de todos los jugadores y usuarios, hemos integrado un sistema de monedas virtuales llamado PUBGCoins dentro del bot.
-Este sistema funciona como una “moneda interna” que te permite acceder a funciones especiales y contenido premium dentro del bot.
+Este sistema funciona como una “moneda interna” que te permite acceder a funciones especiales y contenido global dentro del bot.
 
 ¿Para qué sirven las PUBGCoins?
 
@@ -128,8 +128,7 @@ El costo ayuda a:
 
 - Si intentas usar una función que requiere PUBGCoins y no tienes suficientes, el bot te avisará con un mensaje claro:
 - Te informará que necesitas más PUBGCoins para acceder a la función.
-
-Te sugerirá cómo conseguirlas fácilmente.
+- Te sugerirá cómo conseguirlas fácilmente.
 
 Seguridad y transparencia 🔒
 
