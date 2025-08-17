@@ -94,29 +94,29 @@ Ahora consultar tus partidas y estadísticas de PUBG es más rápido, fácil e i
 
 ¡Probalo y descubrí cómo llevar tu juego al siguiente nivel! 🎯
 
-## Sistema PUBGCoins 💰 14.8.2025
+## Sistema BattleCoins 💰 14.8.2025
 
-¿Qué es el sistema PUBGCoins y por qué está en el bot?
+¿Qué es el sistema BattleCoins y por qué está en el bot?
 
-Para mejorar la experiencia de todos los jugadores y usuarios, hemos integrado un sistema de monedas virtuales llamado PUBGCoins dentro del bot.
+Para mejorar la experiencia de todos los jugadores y usuarios, hemos integrado un sistema de monedas virtuales llamado BattleCoins dentro del bot.
 Este sistema funciona como una “moneda interna” que te permite acceder a funciones especiales y contenido global dentro del bot.
 
-¿Para qué sirven las PUBGCoins?
+¿Para qué sirven las BattleCoins?
 
-Algunas funciones del bot requieren un pequeño costo en PUBGCoins para poder usarlas. Por ejemplo:
+Algunas funciones del bot requieren un pequeño costo en BattleCoins para poder usarlas. Por ejemplo:
 
 - 📊 Consultar rankings globales de jugadores.
 - 📈 Ver estadísticas avanzadas que no están disponibles para todos.
-- ✨ Acceder a características exclusivas que solo los usuarios con PUBGCoins pueden utilizar.
+- ✨ Acceder a características exclusivas que solo los usuarios con BattleCoins pueden utilizar.
 
-¿Cómo se consiguen las PUBGCoins?
+¿Cómo se consiguen las BattleCoins?
 
-- No necesitas pagar dinero real para obtenerlas. Actualmente, puedes ganar PUBGCoins de estas maneras:
-- 🗳️ Votando por el bot en plataformas como Top.gg. Cada voto te recompensa con una cantidad de PUBGCoins.
+- No necesitas pagar dinero real para obtenerlas. Actualmente, puedes ganar BattleCoins de estas maneras:
+- 🗳️ Votando por el bot en plataformas como Top.gg. Cada voto te recompensa con una cantidad de BattleCoins.
 - 🎉 Participando en eventos especiales que el servidor o el bot realicen.
-- 📢 Otras formas que iremos anunciando para que puedas ganar más PUBGCoins.
+- 📢 Otras formas que iremos anunciando para que puedas ganar más BattleCoins.
 
-¿Por qué hay un costo en PUBGCoins para ciertas funciones?
+¿Por qué hay un costo en BattleCoins para ciertas funciones?
 
 El costo ayuda a:
 
@@ -124,14 +124,14 @@ El costo ayuda a:
 - Fomentar la participación activa de la comunidad.
 - Evitar abusos y garantizar que los recursos del bot se usen de forma justa.
 
-¿Qué pasa si no tengo suficientes PUBGCoins?
+¿Qué pasa si no tengo suficientes BattleCoins?
 
-- Si intentas usar una función que requiere PUBGCoins y no tienes suficientes, el bot te avisará con un mensaje claro:
-- Te informará que necesitas más PUBGCoins para acceder a la función.
+- Si intentas usar una función que requiere BattleCoins y no tienes suficientes, el bot te avisará con un mensaje claro:
+- Te informará que necesitas más BattleCoins para acceder a la función.
 - Te sugerirá cómo conseguirlas fácilmente.
 
 Seguridad y transparencia 🔒
 
-- Tus PUBGCoins están vinculadas a tu cuenta de Discord y solo tú puedes usarlas.
+- Tus BattleCoins están vinculadas a tu cuenta de Discord y solo tú puedes usarlas.
 - El bot lleva un registro seguro y actualizado de tus monedas.
 - Nunca tendrás cargos reales; todo es un sistema interno y virtual para mejorar la experiencia de los usuarios.
