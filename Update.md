@@ -135,3 +135,11 @@ Seguridad y transparencia 🔒
 - Tus BattleCoins están vinculadas a tu cuenta de Discord y solo tú puedes usarlas.
 - El bot lleva un registro seguro y actualizado de tus monedas.
 - Nunca tendrás cargos reales; todo es un sistema interno y virtual para mejorar la experiencia de los usuarios.
+
+🛠️ Actualización: Error de registro solucionado 27.8.2025
+
+Corregimos el error DuplicateKey que aparecía en algunos casos al usar /register.
+Ahora cada jugador de PUBG puede registrarse sin problemas en un servidor, siempre indicando su región y plataforma (esto sigue siendo obligatorio).
+Cada usuario de Discord solo puede tener un registro por servidor, evitando confusión o registros duplicados.
+
+👉 En resumen: el registro ahora funciona de forma estable y sin errores. 🎉
