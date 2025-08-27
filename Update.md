@@ -136,7 +136,7 @@ Seguridad y transparencia 🔒
 - El bot lleva un registro seguro y actualizado de tus monedas.
 - Nunca tendrás cargos reales; todo es un sistema interno y virtual para mejorar la experiencia de los usuarios.
 
-🛠️ Actualización: Error de registro solucionado 27.8.2025
+## 🛠️ Actualización: Error de registro solucionado 27.8.2025
 
 - Corregimos el error DuplicateKey que aparecía en algunos casos al usar /register.
 - Ahora cada jugador de PUBG puede registrarse sin problemas en un servidor, siempre indicando su región y plataforma (esto sigue siendo obligatorio).
