@@ -138,8 +138,8 @@ Seguridad y transparencia 🔒
 
 🛠️ Actualización: Error de registro solucionado 27.8.2025
 
-Corregimos el error DuplicateKey que aparecía en algunos casos al usar /register.
-Ahora cada jugador de PUBG puede registrarse sin problemas en un servidor, siempre indicando su región y plataforma (esto sigue siendo obligatorio).
-Cada usuario de Discord solo puede tener un registro por servidor, evitando confusión o registros duplicados.
+- Corregimos el error DuplicateKey que aparecía en algunos casos al usar /register.
+- Ahora cada jugador de PUBG puede registrarse sin problemas en un servidor, siempre indicando su región y plataforma (esto sigue siendo obligatorio).
+- Cada usuario de Discord solo puede tener un registro por servidor, evitando confusión o registros duplicados.
 
 👉 En resumen: el registro ahora funciona de forma estable y sin errores. 🎉
