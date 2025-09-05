@@ -144,7 +144,8 @@ Seguridad y transparencia 🔒
 
 👉 En resumen: el registro ahora funciona de forma estable y sin errores. 🎉
 
-🛟 Soporte y Reporte de Errores
+## 🛟 Soporte y Reporte de Errores
+
 - Si encontrás un bug o necesitás soporte, usá el siguiente comando en tu servidor:
 
  /reportbug
