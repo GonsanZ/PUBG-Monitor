@@ -109,7 +109,7 @@ Algunas funciones del bot requieren un pequeño costo en BattleCoins para poder 
 - 📈 Ver estadísticas avanzadas que no están disponibles para todos.
 - ✨ Acceder a características exclusivas que solo los usuarios con BattleCoins pueden utilizar.
 
-¿Cómo se consiguen las BattleCoins?
+¿Cómo se consiguen las BattleCoins?0
 
 - No necesitas pagar dinero real para obtenerlas. Actualmente, puedes ganar BattleCoins de estas maneras:
 - 🗳️ Votando por el bot en plataformas como Top.gg. Cada voto te recompensa con una cantidad de BattleCoins.
@@ -144,14 +144,23 @@ Seguridad y transparencia 🔒
 
 👉 En resumen: el registro ahora funciona de forma estable y sin errores. 🎉
 
-## 🛟 Soporte y Reporte de Errores
+## 🎁 Recompensa por Reportar Errores 5.9.2025
 
-- Si encontrás un bug o necesitás soporte, usá el siguiente comando en tu servidor:
+¿Lograste encontrar un bug en el bot? 🐞
+¡Tu ayuda tiene premio!
 
- /reportbug
+Cada vez que reportes un error válido usando el comando:
 
-   - 📝 Descripción: Explicá claramente el error que encontraste.
+/reportbug
 
-   - 🖼️ Captura de pantalla: Podés adjuntar una imagen para mostrar mejor el problema.
+👉 Recibirás automáticamente 500 BattleCoins como recompensa.
 
-Tu reporte será enviado directamente al desarrollador y recibirás un mensaje de confirmación ✅.
+Con estas monedas podrás:
+
+   - 🌐 Competir en el Ranking Global durante 30 días
+
+   - 📊 Acceder a estadísticas avanzadas
+
+   - ✨ Desbloquear funciones exclusivas dentro del bot
+
+Tu colaboración no solo mejora el bot, también te da ventajas para destacar entre los mejores jugadores. 🚀
