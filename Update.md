@@ -164,3 +164,47 @@ Con estas monedas podrás:
    - ✨ Desbloquear funciones exclusivas dentro del bot
 
 Tu colaboración no solo mejora el bot, también te da ventajas para destacar entre los mejores jugadores. 🚀
+
+## 🆕 Actualización 1.7: Sistema de Clanes Competitivo
+
+¡Bienvenido al **Sistema de Clanes** de **PUBG Monitor**! 🎮
+
+En esta versión 1.7, introducimos mejoras y detalles completos para que puedas crear, unirte y competir con otros clanes de forma más fácil y segura.
+
+---
+
+## 🔥 Comandos principales de Clanes:
+
+- `/clan create <nombre>` – Crea tu clan pagando **100 BattleCoins**.
+- `/clan join <nombre>` – Únete a un clan existente.
+- `/clan invite <usuario>` – Invita a un usuario a tu clan (solo líder).
+- `/clan remove <usuario>` – Remueve a un miembro (solo líder).
+- `/clan info <nombre>` – Información detallada de un clan.
+- `/clan leaderboard` – Ranking global de clanes (top 10).
+
+---
+
+## 💰 BattleCoins y recompensas:
+
+- Crear un clan: 100 BattleCoins.
+- +10 puntos al crear un clan.
+- +5 puntos al unir miembros.
+- +5 puntos al invitar.
+- -2 puntos al remover miembros.
+- **Para obtener BattleCoins, debes votar en [Top.gg](https://top.gg/bot/1375648720573567137/vote)**.
+
+---
+
+## ⭐ Beneficios del sistema:
+
+- ✅ Cada clan acumula **puntos** que determinan su posición en el **ranking global**.
+- ✅ Líderes pueden gestionar e invitar miembros.
+- ✅ Top 10 clanes compiten por el primer lugar.
+- ✅ Sistema seguro, transparente y 100% integrado al bot.
+- ✅ Compatible con todos los servidores donde PUBG Monitor esté activo.
+
+---
+
+## 🏆 Ranking Global:
+
+Los clanes con más puntos aparecerán en el top 10 y competirán por el primer lugar, ¡ponte a prueba y domina el ranking!
