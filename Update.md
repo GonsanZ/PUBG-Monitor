@@ -205,7 +205,7 @@ En esta versión 1.7, introducimos mejoras y detalles completos para que puedas 
 
 ---
 
-# 🏆 Ranking Global:
+🏆 Ranking Global:
 
 Los clanes con más puntos aparecerán en el top 10 y competirán por el primer lugar, ¡ponte a prueba y domina el ranking!
 ##
