@@ -208,3 +208,27 @@ En esta versión 1.7, introducimos mejoras y detalles completos para que puedas 
 ## 🏆 Ranking Global:
 
 Los clanes con más puntos aparecerán en el top 10 y competirán por el primer lugar, ¡ponte a prueba y domina el ranking!
+
+## 🚀 Actualización General – Sistemas Mejorados de PUBG Monitor 11-10-2025
+
+🎉 ¡Actualización General! Sistemas mejorados y nuevas funciones para dominar PUBG.
+
+🎯 META: Top armas y estrategias del parche actual → /meta
+
+🌟 Temporada: Stats detalladas, KD, victorias y partidas → /season
+
+🏆 Torneos: Consulta torneos activos y próximos → /tournaments
+
+⚜️ Clanes: Niveles, insignias y recompensas visuales → /clan-level
+
+🧠 Ranking Competitivo: Rango automático, imágenes dinámicas → /stats
+
+🏰 BattleCoins: Gestión de clanes, puntos por actividad y ranking global
+
+🔥 Resumen:
+✅ Meta y estrategias actualizadas
+✅ Temporadas y torneos sincronizados
+✅ Clanes con niveles, insignias y beneficios
+✅ Sistema rápido, seguro y moderno
+
+✨ Evoluciona con PUBG Monitor y domina el campo de batalla! ✨
