@@ -205,9 +205,10 @@ En esta versión 1.7, introducimos mejoras y detalles completos para que puedas 
 
 ---
 
-## 🏆 Ranking Global:
+# 🏆 Ranking Global:
 
 Los clanes con más puntos aparecerán en el top 10 y competirán por el primer lugar, ¡ponte a prueba y domina el ranking!
+##
 
 ## 🚀 Actualización General – Sistemas Mejorados de PUBG Monitor 11-10-2025
 
@@ -221,7 +222,7 @@ Los clanes con más puntos aparecerán en el top 10 y competirán por el primer 
 
 ⚜️ Clanes: Niveles, insignias y recompensas visuales → /clan-level
 
-🧠 Ranking Competitivo: Rango automático, imágenes dinámicas → /stats
+🧠 Ranking Competitivo: Rango automático, imágenes dinámicas → /ranking
 
 🏰 BattleCoins: Gestión de clanes, puntos por actividad y ranking global
 
