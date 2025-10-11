@@ -234,4 +234,4 @@ Los clanes con más puntos aparecerán en el top 10 y competirán por el primer 
 
 ✨ Evoluciona con PUBG Monitor y domina el campo de batalla! ✨
 
-<img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/update-new.png" width="400">
+<img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/update-new.jpg" width="400">
