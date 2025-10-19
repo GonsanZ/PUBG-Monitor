@@ -237,7 +237,7 @@ Los clanes con más puntos aparecerán en el top 10 y competirán por el primer 
 <img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/update-new.jpg" width="400">
 
 
-# 🎃 /openbox – Abre tu Caja de Halloween y gana BattleCoins 🎁
+# 🎃 /openbox – Abre tu Caja de Halloween y gana BattleCoins 🎁 19.10.2025
 
 Abre tu **Caja de Halloween** y recibe **BattleCoins**, la moneda oficial del servidor. Con ellas podrás disfrutar de múltiples beneficios y mejorar tu experiencia de juego.
 
