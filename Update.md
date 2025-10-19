@@ -235,3 +235,26 @@ Los clanes con más puntos aparecerán en el top 10 y competirán por el primer 
 ✨ Evoluciona con PUBG Monitor y domina el campo de batalla! ✨
 
 <img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/update-new.jpg" width="400">
+
+
+# 🎃 /openbox – Abre tu Caja de Halloween y gana BattleCoins 🎁
+
+Abre tu **Caja de Halloween** y recibe **BattleCoins**, la moneda oficial del servidor. Con ellas podrás disfrutar de múltiples beneficios y mejorar tu experiencia de juego.
+
+## 🔹 Cómo funciona
+
+- Cada usuario puede abrir una caja **cada 4 días**.
+- Al abrirla, recibirás una **recompensa aleatoria** de BattleCoins: `30`, `50`, `75` o `100`.
+- Tu saldo se actualizará automáticamente y podrás verlo en el embed de apertura.
+- Si intentas abrir otra caja antes de que pasen 4 días, recibirás un mensaje indicando **cuánto tiempo falta** para volver a abrirla.
+
+## 💰 Beneficios de las BattleCoins
+
+- Desbloquea **estadísticas globales** y compite contra otros jugadores del servidor.
+- **Crea y mejora tu clan**: invita miembros, sube de nivel y demuestra tu dominio.
+- Participa en **eventos especiales, recompensas y desafíos exclusivos** del servidor.
+
+## 💡 Tip
+¡Abre tu caja cada 4 días, acumula BattleCoins y conviértete en el **jugador más destacado** del servidor! 🏆
+
+<img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/halloween.png" width="400">
