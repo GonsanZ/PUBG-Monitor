@@ -210,7 +210,7 @@ En esta versión 1.7, introducimos mejoras y detalles completos para que puedas 
 Los clanes con más puntos aparecerán en el top 10 y competirán por el primer lugar, ¡ponte a prueba y domina el ranking!
 ##
 
-## 🚀 Actualización General – Sistemas Mejorados de PUBG Monitor 11-10-2025
+## 🚀 Actualización General – Sistemas Mejorados de PUBG Monitor 11.10.2025
 
 🎉 ¡Actualización General! Sistemas mejorados y nuevas funciones para dominar PUBG.
 
