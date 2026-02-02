@@ -259,3 +259,28 @@ Abre tu **Caja de Halloween** y recibe **BattleCoins**, la moneda oficial del se
 ¡Abre tu caja cada 4 días, acumula BattleCoins y conviértete en el **jugador más destacado** del servidor! 🏆
 
 <img src="https://github.com/GonsanZ/PUBG-Monitor/blob/main/halloween.png" width="400">
+
+## Mejoras 1.2.2026
+
+⚡ **¡PUBGMonitor Siempre Actualizado!** ⚡
+¡Hola, gamers! Esta actualización trae mejoras clave para que tus datos de PUBG siempre sean precisos y confiables:
+
+💡 **Datos Siempre Frescos:**
+Ahora todas las consultas van directo a la API de PUBG.
+Olvídate de errores o información antigua: todo lo que ves refleja el estado real del juego al instante.
+
+🗑️ **Adiós a la Caché y Confusiones:**
+Se eliminaron cachedFetch, PubgCache e inflight.
+Antes la caché podía guardar datos viejos o confundir nombres con mayúsculas/minúsculas.
+Ahora, lo que ves es lo que realmente pasa en PUBG, sin duplicados ni errores raros.
+
+🔄 **Seguridad y Estabilidad:**
+Si la API falla, la consulta se reintenta automáticamente.
+Control de límites de uso para que nunca te bloqueen por demasiadas solicitudes.
+
+✨ **Otros Beneficios:**
+Código más simple y confiable: menos bugs y problemas.
+Consultas rápidas y seguras, sin complicaciones ni pasos extra.
+
+💡 **Resumen:**
+¡Ahora tus estadísticas y partidas reflejan la verdad del juego en tiempo real! Datos precisos, confiables y sin errores de cache ni problemas con los nombres.
