@@ -270,7 +270,6 @@ Ahora todas las consultas van directo a la API de PUBG.
 Olvídate de errores o información antigua: todo lo que ves refleja el estado real del juego al instante.
 
 🗑️ **Adiós a la Caché y Confusiones:**
-Se eliminaron cachedFetch, PubgCache e inflight.
 Antes la caché podía guardar datos viejos o confundir nombres con mayúsculas/minúsculas.
 Ahora, lo que ves es lo que realmente pasa en PUBG, sin duplicados ni errores raros.
 
